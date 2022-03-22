@@ -1,0 +1,136 @@
+sallvill@lx1-fuxi145:~/ot_viikko1$ git log --stat | cat
+commit b22ea0784b078230d35f33c80949032c2dfaca1a
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 19:00:41 2022 +0200
+
+    valmiit muutokset
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d544be834be63cf1f71ae7633c92b9e872c1186b
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:56:26 2022 +0200
+
+    files luotu
+
+ tiedostoja/file3 | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f5829ce7c26e429288333c7756f3d2f63f8136a0
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:49:06 2022 +0200
+
+    muutos file3
+
+ tiedostoja/file3 | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1d462b73b615f1761a7370e9b29c92b295ec4b94
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:46:48 2022 +0200
+
+    files luotu
+
+ file1                        | 1 -
+ tiedostoja/{file22 => file1} | 0
+ tiedostoja/file2             | 0
+ 3 files changed, 1 deletion(-)
+
+commit 45351f73b6001c6ec465430d86f7e007b0b143bd
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:43:26 2022 +0200
+
+    muutoksia
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ec1e3d62580639f56c38522057162151cce04d77
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:40:16 2022 +0200
+
+    tiedostoja harjoitus
+
+ file1            | 1 +
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 4 files changed, 1 insertion(+)
+
+commit b8e3d57c18907f05851ca8c9ff681e8b34e16590
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:33:30 2022 +0200
+
+    harjoittelu files
+
+ eka.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 0b2fb7e57ac7a641031776739ded01d1c88a8c93
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:12:50 2022 +0200
+
+    eka nimen muutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 62de5f026e1dbe1785f7981596e00fe3aff575b5
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 18:09:03 2022 +0200
+
+    toinen poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 726b963ba230fff71737856073e8927621fa0e32
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 17:47:24 2022 +0200
+
+    stuff ja jokin
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f61dd5633d21497bca1c8a02c0565023d3c6b805
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 17:45:33 2022 +0200
+
+    testailua
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 3072b601f563859630de5d9a961018c4b2405073
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 17:39:12 2022 +0200
+
+    kolmas luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 721f752f79a88565d0c739e9f4ff2dc0dc960e8a
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 17:30:02 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit dbb55a11edaa1331fb9e0229b64c5212c6368a18
+Author: Sallamaari Villa <sallvill@ad.helsinki.fi>
+Date:   Tue Mar 22 17:20:17 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
