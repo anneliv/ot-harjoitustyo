@@ -3,14 +3,14 @@
  - [komentorivi.txt](https://github.com/anneliv/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
  - [gitlog.txt](https://github.com/anneliv/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
 
-# Alustava määrittelydokumentti
+## Alustava määrittelydokumentti
 päivitys hankaluuksia, korjaan formaatin myöhemmin
 
-## Sovelluksen tarkoitus 
+#### Sovelluksen tarkoitus 
 -Niin sanottu klikkeri-peli: rekisteröinyt käyttäjä klikkaa nappulaa niin kauan kuin jaksaa. Paras tulos tallennetaan käyttäjän profiiliin. 
-## Käyttäjä 
+#### Käyttäjä 
 Alustavasti yksi käyttäjärooli eli normaalikäyttäjä. 
-## Suunnitellut toiminnallisuudet 
+#### Suunnitellut toiminnallisuudet 
 - käyttäjätunnuksen luominen (pituus väh. 3, yksilöllisyys tarkistetaan) 
 - sisäänkirjautuminen (järjestelmä tarkistaa käyttäjätunnuksen olemassa olon) 
 - sovellus ilmoittaa, jos käyttäjätunnusta ei löydy 
@@ -24,7 +24,7 @@ Alustavasti yksi käyttäjärooli eli normaalikäyttäjä.
    - Alustavasti erillinen lopeta-nappi, joka lopettaa pelikierroksen. Jos sovellus suljetaan ennen, tulosta ei tallenneta. 
    - Pelikierroksen lopussa: jos tulos on käyttäjän paras, se tallentuu käyttäjän profiiliin. 
    - Jos tulos on parempi kuin ranking listalla, se sijoitetaan listalle ja syrjäyttää listan huonoimman tuloksen. 
-## Mahdollisia lisäyksiä 
+#### Mahdollisia lisäyksiä 
 - kirjautuessa vaadittava käyttäjä salasana 
 - kuva nappulaan ja ääniefekti klikkaukseen 
 - käyttäjäprofiiliin käyttäjän klikkausten kokonaismäärä, käytetty aika 
